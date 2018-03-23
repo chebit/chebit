@@ -36,6 +36,6 @@ monitor /var/log/nginx/access.log index.html echo -d
 
 Результат скинуть в виде Pull Request к этому репозиторию в каталоге `./tasks/task1-log_monitor/ВАШ_НИК_НА_GITHUB`
 
-Заказчик: Данил Письменный, danil@brandymint.ru, telegram@pismenny
+Заказчик: Данил Письменный (техдир Unicornex), danil@brandymint.ru, telegram@pismenny
 
 Дата создания: 23 марта. Результаты принимаются до 15-го апреля.
