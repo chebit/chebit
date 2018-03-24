@@ -6,9 +6,9 @@
 
 Ревьюеры:
 
-* Данил Письменный [@dapi](https://github.com/dapi)
-* Александр Баталов [@abataloff](https://github.com/abataloff)
-* Сергей Бурмисов [@burmisov](https://github.com/burmisov)
+* Данил Письменный – [@dapi](https://github.com/dapi)
+* Александр Баталов – [@abataloff](https://github.com/abataloff)
+* Сергей Бурмисов – [@burmisov](https://github.com/burmisov)
 
 Шлите PullRequest-ы.
 
