@@ -82,7 +82,7 @@ monitor /var/log/nginx/access.log index.html echo -d
 
 Длительность: Примерно 4-5 часов
 
-Место: Предварительно Корпус Б в ЧувГУ ([на карте](https://yandex.com/maps/-/CBelQBtIhA)
+Место: Предварительно Корпус Б в ЧувГУ ([на карте](https://yandex.com/maps/-/CBelQBtIhA))
 
 Больше информации: Вот [тут](https://www.facebook.com/abataloff88/posts/1732969540095173?pnref=story)
 
