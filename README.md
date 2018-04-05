@@ -87,20 +87,20 @@ monitor /var/log/nginx/access.log index.html echo -d
 
 Регистрация: http://cmit21.ru/events/xakaton_programmirovanie_v_srede_scratch.html
 
-## [Draft] 21 Апреля / Миникурс по процессам разработки от Scrum-мастера
+## 21 Апреля / Миникурс по процессам разработки от Scrum-мастера
 
 Дата проведения: 21.04.2018
 
-Время начала: В первой половине дня (точное время будет позже)
+Время начала: 10:00
 
 Тезисы: Проект и продукт, их отличия; почему ничего не летит без капитана; ожидания от каждого участника процесса.
 
-Длительность: Примерно 4-5 часов
+Длительность: 4 часа
 
 Место: Предварительно Корпус Б в ЧувГУ ([на карте](https://yandex.com/maps/-/CBelQBtIhA))
 
-Больше информации: Вот [тут](https://www.facebook.com/abataloff88/posts/1732969540095173?pnref=story)
+Больше информации: Вот [тут](https://www.facebook.com/abataloff88/posts/1756847024374091)
 
-Комментарии: Просьба заполнить [анкету](https://goo.gl/forms/jgF8OSQofWfsJKeD3) для понимания аудитории
+Регистрация: [Timepad](https://chejam.timepad.ru/event/697564)
 
 ## [Draft] 28-29 Апреля, Unitalks
