@@ -1,6 +1,6 @@
 # CHEBIT
 
-[Ближайшие мероприятия](#events) | [Задачки](#tasks)
+[Ближайшие мероприятия](#events) | [Задачки](#tasks) | [Архив мероприятий](#archive)
 
 ---
 
@@ -72,21 +72,6 @@ monitor /var/log/nginx/access.log index.html echo -d
 
 * Ближайшие мероприятия
 
-## 31 Марта / Скретч-Хакатон (дети от 7 до 17 лет)
-
-Дата проведения: 31.03.2018
-
-Время начала: 14:00
-
-Длительность: 3 часа
-
-Место: Национальная библиотека Чувашской Республики ([на карте](https://yandex.ru/maps/-/CBe~5MUF3D
-))
-
-Больше информации: Вот [тут](http://cmit21.ru/news/priglashaem_dlya_uchastiya_v_skretch_xakatone.html)
-
-Регистрация: http://cmit21.ru/events/xakaton_programmirovanie_v_srede_scratch.html
-
 ## 21 Апреля / Миникурс по процессам разработки от Scrum-мастера
 
 Дата проведения: 21.04.2018
@@ -104,3 +89,24 @@ monitor /var/log/nginx/access.log index.html echo -d
 Регистрация: [Timepad](https://chejam.timepad.ru/event/697564)
 
 ## [Draft] 28-29 Апреля, Unitalks
+
+---
+
+# Archive
+
+* Архив мероприятий
+
+## 31 Марта / Скретч-Хакатон (дети от 7 до 17 лет)
+
+Дата проведения: 31.03.2018
+
+Время начала: 14:00
+
+Длительность: 3 часа
+
+Место: Национальная библиотека Чувашской Республики ([на карте](https://yandex.ru/maps/-/CBe~5MUF3D
+))
+
+Больше информации: Вот [тут](http://cmit21.ru/news/priglashaem_dlya_uchastiya_v_skretch_xakatone.html)
+
+Регистрация: http://cmit21.ru/events/xakaton_programmirovanie_v_srede_scratch.html
