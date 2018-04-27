@@ -72,6 +72,14 @@ monitor /var/log/nginx/access.log index.html echo -d
 
 * Ближайшие мероприятия
 
+## [Draft] 28-29 Апреля, Unitalks
+
+---
+
+# Archive
+
+* Архив мероприятий
+
 ## 21 Апреля / Миникурс по процессам разработки от Scrum-мастера
 
 Дата проведения: 21.04.2018
@@ -87,14 +95,6 @@ monitor /var/log/nginx/access.log index.html echo -d
 Больше информации: Вот [тут](https://www.facebook.com/abataloff88/posts/1756847024374091)
 
 Регистрация: [Timepad](https://chejam.timepad.ru/event/697564)
-
-## [Draft] 28-29 Апреля, Unitalks
-
----
-
-# Archive
-
-* Архив мероприятий
 
 ## 31 Марта / Скретч-Хакатон (дети от 7 до 17 лет)
 
